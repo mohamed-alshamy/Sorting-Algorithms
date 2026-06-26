@@ -38,13 +38,9 @@ OR
 you can use cmd
 
 ```
-git clone https://github.com/7oSkaaa/Sorting-Algorithms.git
+git clone https://github.com/mohamed-alshamy/Sorting-Algorithms.git
 ```
 go to the folder of the repo and just double click on `main.exe`
-
-## Video:
-https://user-images.githubusercontent.com/63050133/149599718-a7e840c9-0fbc-4afe-acd6-88fe84209176.mp4
-
 
 --- 
 
